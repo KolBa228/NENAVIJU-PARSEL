@@ -2,10 +2,10 @@
   "name": "my_template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vladrafeed.github.io/my_template",
+  "homepage": "https://vladrafeed.github.io/NENAVIJU-PARSEL",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /my_template/"
+    "build": "parcel build src/*.html --public-url /NENAVIJU-PARSEL/"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,16 @@
+img {
+    width: 320px;
+    display: block;
+}
+
+.error {
+    color: red;
+    font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 99px;
+        line-height: 84.4%;
+        /* identical to box height, or 84px */
+    
+        text-align: center;
+}
